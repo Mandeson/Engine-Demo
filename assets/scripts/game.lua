@@ -1,5 +1,3 @@
-game = {
-    init = function()
-        
-    end
-}
+function Engine.init()
+    
+end
